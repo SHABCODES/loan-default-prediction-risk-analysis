@@ -20,13 +20,3 @@ Banks need to minimize loan defaults while maximizing approvals. This project he
 - **Dashboard**: Interactive Power BI with risk categorization
 - **Business Impact**: Data-driven credit approval framework
 
-## Project Structure
-loan-prediction-project/
-├── data/
-│ └── bank_loan_data_with_predictions.csv
-├── python/
-│ └── loan_prediction_analysis.ipynb
-├── powerbi/
-│ └── bank_loan_dashboard.pbix
-└── images/
-└── dashboard_preview.png
