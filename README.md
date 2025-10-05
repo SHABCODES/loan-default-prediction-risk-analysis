@@ -22,8 +22,11 @@ Banks need to minimize loan defaults while maximizing approvals. This project he
 
 ## Project Structure
 loan-prediction-project/
-├── bank_loan_data_with_predictions.csv
-├── loan_prediction_analysis.ipynb
-├── bank_loan_dashboard.pbix
+├── data/
+│ └── bank_loan_data_with_predictions.csv
+├── python/
+│ └── loan_prediction_analysis.ipynb
+├── powerbi/
+│ └── bank_loan_dashboard.pbix
 └── images/
 └── dashboard_preview.png
