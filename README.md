@@ -9,7 +9,7 @@
 
 A comprehensive solution for predicting loan defaults and visualizing financial risk metrics using machine learning and business intelligence.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.PNG)
 
 ## Business Problem
 Banks need to minimize loan defaults while maximizing approvals. This project helps financial institutions make data-driven lending decisions by predicting default probability and providing actionable risk insights.
