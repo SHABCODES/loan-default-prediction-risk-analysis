@@ -21,3 +21,9 @@ Banks need to minimize loan defaults while maximizing approvals. This project he
 - **Business Impact**: Data-driven credit approval framework
 
 ## Project Structure
+loan-prediction-project/
+├── bank_loan_data_with_predictions.csv
+├── loan_prediction_analysis.ipynb
+├── bank_loan_dashboard.pbix
+└── images/
+└── dashboard_preview.png
